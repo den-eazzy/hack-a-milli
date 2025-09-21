@@ -40,7 +40,7 @@ DotKE is a comprehensive platform that streamlines the process of searching for 
 
 | Platform | Status | Download |
 |----------|--------|----------|
-| Web App | ✅ Available | [Visit DotKE Web](/) |
+| Web App | ✅ Available | [Visit DotKE Web](https://www.dotke.me.ke/) |
 | Android APK | ✅ Available | [Download APK](#) |
 | iOS | 🔄 Coming Soon | - |
 
